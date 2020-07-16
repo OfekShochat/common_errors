@@ -1,0 +1,12 @@
+SyntaxError: unexpected EOF while parsing > maybe you forgot something at the end of the line - maybe try to add ")"
+NameError: name '' is not defined > maybe there is no definition of a var
+TypeError: '' object is not callable > maybe the object has no propeties. so there is no need for the ".".
+IndexError: list index out of range > maybe the list isnt long enough
+SyntaxError: EOL while scanning string literal > maybe you frogot to end the string. try adding a bracket in the end
+SyntaxError: invalid syntax > maybe you frogot a comma between something or an expretion like in for loop the "in" keyword or an indentation after a ":" or did not finish a list
+SyntaxError: can't assign to function call > function cannot be a varname
+SyntaxError: can't assign to literal > maybe the var name is a literal. so the var name is like a var value.
+SyntaxError: 'break' outside loop > break is outside a loop. so it doesnt do anything but this error
+SyntaxError: 'continue' not properly in loop > continue is outside a loop. so it doesnt do anything but this error
+SyntaxError: EOL while scanning string literal > maybe you frogot to end a string
+SyntaxError: f-string: unterminated string > did not finish a f-string. try adding a bracket
