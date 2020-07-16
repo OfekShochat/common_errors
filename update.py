@@ -1,6 +1,5 @@
+from git import Repo
+
 def update():
-	from git import Repo
-	import os
-	url = "https://github.com/OfekShochat/common_errors"
-	Repo.clone_from(url, ".")
+    Repo.clone_from("https://github.com/OfekShochat/common_errors.git", "./")
 update()

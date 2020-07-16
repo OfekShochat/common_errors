@@ -1,0 +1,4 @@
+SyntaxError: unexpected EOF while parsing > you forgot something at the end of the line - maybe try to add ")"
+NameError: name '' is not defined > there is no definition of a var
+TypeError: '' object is not callable > the object has no propeties. so there is no need for the ".".
+IndexError: list index out of range > the list isnt long enough
